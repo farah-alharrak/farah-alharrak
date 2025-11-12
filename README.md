@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farah-alharrak
 - 👀 I’m interested in software 
-- 🌱 I’m currently a computer science student
+- 🌱 I’m currently a computer science engineer
 - 📫 How to reach me : https://www.linkedin.com/in/farah-al-harrak-522869197
                        
 
